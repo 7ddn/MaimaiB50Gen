@@ -8,6 +8,8 @@
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @require      https://code.jquery.com/jquery-3.6.3.js
 // @require      https://7ddn.github.io/Lv.js
+// @updateURL    https://github.com/7ddn/MaimaiB50Gen/releases/download/v0.1.0/mai-ranking.user.js
+// @downloadURL  https://github.com/7ddn/MaimaiB50Gen/releases/download/v0.1.0/mai-ranking.user.js
 // @grant        none
 // ==/UserScript==
 
